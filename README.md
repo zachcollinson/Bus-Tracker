@@ -1,10 +1,8 @@
 # Description
-Real Time Bus Tracker. 
-Coding activities for MiT school work.
+Real Time Bus Tracker, this site will show you where the bus is located at the current time as well as the bus stops along the route.
 
 ## How to run
-Drag and drop index.html file into browser.
-https://github.com/zachcollinson/Bus-Tracker.git
+You can run this by creating a fork and running this code into your favorite code editor and running on a browser locally.
 
 ### Roadmap
 New button style.
